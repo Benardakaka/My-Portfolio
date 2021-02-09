@@ -1,4 +1,4 @@
-# Alex Portfolio
+# Benard Portfolio
 
 #### Author
 * Benard Akaka
